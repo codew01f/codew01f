@@ -11,4 +11,3 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,rust,bash,linux,raspberrypi,bevy,&perline=5)](https://skillicons.dev)
 
 ---
-![snake animation](https://github.com/codew01f/codew01f/blob/output/github-contribution-grid-snake.svg)
