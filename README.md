@@ -2,10 +2,10 @@
 
 ## I'm a competitive programmer, studying *CSE@IUT*.
 
-* I'm interested in Robotics and GameDev
-* I'm currently working on my code library- [**Snippets**](https://github.com/codew01f/snippets)
-* I'm learning Bevy
-* 🌍  I'm based in Dhaka, Bangladesh
+* I'm interested in Robotics🤖 and GameDev👾
+* I'm currently working on my code library- [**🧩Snippets**](https://github.com/codew01f/snippets)
+* I'm learning Bevy🐦
+* I'm based in Dhaka, Bangladesh🇧🇩
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,rust,bash,linux,raspberrypi,bevy,&perline=5)](https://skillicons.dev)
